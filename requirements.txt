@@ -1,0 +1,6 @@
+fastapi
+sqlalchemy
+selenium
+webdriver-manager
+datetime
+bs4
